@@ -1,6 +1,5 @@
 venv/
 env/
-.venv/
 .env/
 __pycache__/
 *.py[cod]
@@ -16,3 +15,7 @@ __pycache__/
 *.tar.gz
 *.rar
 *.sqlite3
+.idea/
+output_console.txt
+output_file_builtin.txt
+output_pandas.txt
